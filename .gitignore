@@ -1,0 +1,3 @@
+# Project exclude paths
+/.gradle/
+/ASCII Text Signature/task/build/
